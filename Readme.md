@@ -21,6 +21,6 @@ NB: This is the default ./gradle.properties file.
 Incase of any build error, please make sure you are connected to a stable Internet. First build time will depend upon your machine and Internet speed.
 
 ## Apps Built By ##
-Sohail Pathan
-Rajesh Barapatatre
+[Sohail Pathan](https://www.linkedin.com/in/iamspathan) and 
+[Rajesh Barapatatre](https://www.linkedin.com/in/rajesh-barapatre-94a53713a/?originalSubdomain=in)
 
