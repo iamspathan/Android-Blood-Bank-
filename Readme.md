@@ -1,4 +1,4 @@
-# Android Blood Bank Managemt System #
+# Android Blood Bank Management System #
 Blood Bank is an Android app that uses Firebase Realtime Database to collect and organize information of blood donors with fast and efficent search.
 
 (A google-services.json file has to be generated for your application using Firebase Console)
