@@ -1,4 +1,4 @@
-# Blood Bank #
+# Android Blood Bank Managemt System #
 Blood Bank is an Android app that uses Firebase Realtime Database to collect and organize information of blood donors with fast and efficent search.
 
 (A google-services.json file has to be generated for your application using Firebase Console)
@@ -20,6 +20,7 @@ You first need to generate the local.properties (replace YOUR_SDK_DIR with your 
 NB: This is the default ./gradle.properties file.
 Incase of any build error, please make sure you are connected to a stable Internet. First build time will depend upon your machine and Internet speed.
 
-## Apps built using this Project ##
-Midipp - [Google Play](https://play.google.com/store/apps/details?id=com.reonsaji.midipp)
-         [GitHub](https://github.com/Webloud/Midipp)
+## Apps Built By ##
+Sohail Pathan
+Rajesh Barapatatre
+
